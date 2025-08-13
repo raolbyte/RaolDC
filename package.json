@@ -1,0 +1,20 @@
+{
+  "name": "raolbyte",
+  "version": "1.0.0",
+  "description": "Simple Discord Bot.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["discord", "bot", "discord.js"],
+  "author": "RaolByte <vgxurl@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "engines": {
+    "node": ">=16.11.0"
+  }
+}
